@@ -12,9 +12,10 @@
     "@types/react-dom": "^18.0.5",
     "bootstrap": "^4.6.1",
     "react": "^18.2.0",
-    "react-bootstrap": "^1.6.5",
+    "react-bootstrap": "^1.6.6",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "socket.io-client": "^4.6.0",
     "typescript": "^4.7.4",
     "web-vitals": "^2.1.4"
   },
@@ -41,5 +42,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.2.6",
+    "@types/react-bootstrap": "^0.32.32"
   }
 }
